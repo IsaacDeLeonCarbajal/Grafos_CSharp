@@ -1,0 +1,6 @@
+C:\Users\PC1\Documents\Software\C Sharp\projects\Grafos\Grafos\obj\Debug\Grafos.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Documents\Software\C Sharp\projects\Grafos\Grafos\bin\Debug\Grafos.exe.config
+C:\Users\PC1\Documents\Software\C Sharp\projects\Grafos\Grafos\bin\Debug\Grafos.exe
+C:\Users\PC1\Documents\Software\C Sharp\projects\Grafos\Grafos\bin\Debug\Grafos.pdb
+C:\Users\PC1\Documents\Software\C Sharp\projects\Grafos\Grafos\obj\Debug\Grafos.exe
+C:\Users\PC1\Documents\Software\C Sharp\projects\Grafos\Grafos\obj\Debug\Grafos.pdb
